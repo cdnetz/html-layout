@@ -1,0 +1,42 @@
+html, body{
+    height: 100%;
+}
+
+.firstclass{
+	background: #686868;
+	width: 100%;
+	height: 125px;
+	clear: both;
+
+}
+.secondclass{
+	background:#CCCCCC;
+	float: left;
+	height: 80%;
+	width: 12%;
+
+}
+.thirdclass{
+	background:#CCCCCC;
+	float: right;
+	height: 80%;
+	width: 12%;
+
+}
+.fourthclass{
+	background: #fff;
+	margin: 0 auto;
+	width: 70%;
+	z-index: 1;
+	height: 70%;
+}
+.fifthclass{
+	background: #333;
+	padding-left: 15%;
+	
+	bottom: 0;
+	height: 10%;
+	width: 70%;
+	margin: 0 auto;
+	
+}
