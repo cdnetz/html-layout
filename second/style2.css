@@ -1,0 +1,32 @@
+html, body{
+    height: 100%;
+}
+.first2class{
+	background: #4A90E2;
+	float: left;
+	width: 33%;
+	height: 100%;
+	
+}
+.second2class{
+	background: #50E3C2;
+	width: 34%;
+	height: 100%;
+	float: left;
+	
+}
+.third2class{
+	background: #B8E986;
+	float: right;
+	width: 33%;
+	height: 60%%;
+	
+}
+.fourth2class{
+	background: url(http://img1.wikia.nocookie.net/__cb20100803020223/packers/images/4/42/Packers.gif);
+	z-index: 1;
+	float: right;
+	width: 33%;
+	height: 40%;
+
+}
